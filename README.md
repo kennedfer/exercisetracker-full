@@ -1,3 +1,5 @@
-# Exercise Tracker
+# Exercise Tracker by kennedfer
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+A exercise tracker api to prove backend knowledge.<br>
+I used the fcc project boilerplate to front-end.<br>
+*This project was complicated and somewhat challenging but i'm glad i managed to pass :)*
